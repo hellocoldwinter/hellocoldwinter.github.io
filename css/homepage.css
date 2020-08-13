@@ -1,5 +1,8 @@
-body {
+.half-image {
     background-image: url('/image/m-t-elgassier-aCZ2hiC-iDk-unsplash.jpg');
-    background-repeat: no-repeat;
-    background-size: 50% 100%;
+    min-height: 50vh;
+    -ms-flex-order: 1;
+    order: 1;
+    background-size: cover;
+    background-position: 50%;
 }
