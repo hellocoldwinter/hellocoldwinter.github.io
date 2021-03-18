@@ -1,0 +1,19 @@
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+
+<div class="s_overlay"></div>
+<div class="content-sidebar">
+	<div class="sidebar-wrap">
+		<aside id="secondary" class="widget-area">
+			<div id="search" class="widget widget_search">
+				<form class="search-form" method="GET" action="{{ '/search.html' | relative_url }}">
+					<label>
+						<input type="search" id="search-input" class="search-field" placeholder="{{ ui_text.search }}" value="">
+					</label>
+					<input type="submit" class="search-submit" value="">
+					<ul id="results-container"></ul>
+				</form>
+			</div>
+		</aside>	
+	</div>
+	<span class="close"></span>
+</div>
