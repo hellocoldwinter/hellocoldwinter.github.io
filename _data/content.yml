@@ -47,11 +47,6 @@ resume:
       - year: "April 2019 - June 2020"
         name: "Undergraduate Research Assistant - Google Inc"
         text: "Assisted in literature review and analyzing 31 fertility mobile apps on Google Play Store and make apps evaluation to identify rooms for improvement"
-
-#      - year: "2009 - 2010"
-#        name: "Senior Developer - Abc Inc"
-#        text: "Optimize website performance using latest technology."
-        
   education:
     title: "Education"
     items:
@@ -62,11 +57,7 @@ resume:
       - year: "2017 - 2020"
         name: "University of California, Irvine"
         text: "Bachelor's Degree in Software Engineering"
-
-#      - year: "2004 - 2005"
-#        name: "Web Design Course"
-#        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
-
+        
 ### Skills [ skills ]
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
