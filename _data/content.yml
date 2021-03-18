@@ -68,53 +68,6 @@ resume:
 #        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
 
 ### Skills [ skills ]
-# skills:
-#   columns:
-#     - type: "default" #skills progress type - default, dotted, circles, list
-#       title: "Design Skills"
-#       items:
-#         - label: "Web Design"
-#           value: "70" #0-100 progress in %
-
-#         - label: "Illustrations"
-#           value: "90" #0-100 progress in %
-
-#         - label: "Photoshop"
-#           value: "75" #0-100 progress in %
-
-#         - label: "Graphic Design"
-#           value: "80" #0-100 progress in %
-
-#     - type: "dotted" #skills progress type - default, dotted, circles, list
-#       title: "Languages Skills"
-#       items:
-#         - label: "English"
-#           value: "90" #0-100 progress in %
-
-#         - label: "German"
-#           value: "70" #0-100 progress in %
-
-#         - label: "Italian"
-#           value: "55" #0-100 progress in %
-
-#         - label: "French"
-#           value: "85" #0-100 progress in %
-
-#     - type: "circles" #skills progress type - default, dotted, circles, list
-#       title: "Coding Skills"
-#       items:
-#         - label: "WordPress"
-#           value: "95" #0-100 progress in %
-
-#         - label: "PHP / MYSQL"
-#           value: "75" #0-100 progress in %
-
-#         - label: "Angular / JavaScript"
-#           value: "85" #0-100 progress in %
-
-#         - label: "HTML / CSS"
-#           value: "90" #0-100 progress in %
-
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
       items:
@@ -153,56 +106,6 @@ resume:
           
         - label: "C++ | Java | Python"
           value: "" #0-100 progress in %
-
-### Services [ services ]
-# services:
-#   title: "My Services"
-#   items:
-#     - icon: "social-html5"
-#       name: "Front-end"
-#       text: "Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript."
-
-#     - icon: "ipad"
-#       name: "Mobile Application"
-#       text: "A mobile application, most commonly referred to as an app, is a type of application software designed to run on a mobile."
-
-#     - icon: "ios-search-strong"
-#       name: "Investigation"
-#       text: "Investigation, examination, inquiry, research express the idea of an active effort to find out something."
-
-#     - icon: "code"
-#       name: "Programming"
-#       text: "Computer programming is the process of designing and building an executable computer program to accomplish a specific."
-
-#     - icon: "help-buoy"
-#       name: "Awesome Supports"
-#       text: "Awesome Support is the most versatile and feature-rich. Get started for free and add premium features as your business grows."
-
-#     - icon: "social-chrome"
-#       name: "Web Development"
-#       text: "Web development is the work involved in developing a Web site for the Internet or an intranet and social network services."
-
-# ### Clients [ clients ]
-# clients:
-#   title: "Clients"
-#   items:
-#     - url: "https://www.google.com"
-#       image: "assets/img/clients/client_1.png"
-
-#     - url: "https://www.google.com"
-#       image: "assets/img/clients/client_2.png"
-
-#     - url: "https://www.google.com"
-#       image: "assets/img/clients/client_3.png"
-
-#     - url: "https://www.google.com"
-#       image: "assets/img/clients/client_1.png"
-
-#     - url: "https://www.google.com"
-#       image: "assets/img/clients/client_2.png"
-
-#     - url: "https://www.google.com"
-#       image: "assets/img/clients/client_3.png"
 
 ### Contact Info [ contacts-info ]
 contacts_info:
