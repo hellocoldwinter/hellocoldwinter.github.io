@@ -63,7 +63,7 @@ resume:
 skills:
   columns:
     - type: "list" #skills progress type - default, dotted, circles, list
-      title: "Knowledge"
+      title: "Skills and Tools"
       items:
         - label: "Prototyping"
           value: "" #0-100 progress in %
