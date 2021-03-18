@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
-title: "Ezra"
+title: "Ezra's corner"
 email: "thuah@umich.edu"
-description: "'s corner"
+description: ""
 author: "Ezra"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "hellocoldwinter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -33,7 +33,7 @@ paginate_path: "/blog/page:num/"
 permalink: pretty
 
 # disqus comments
-disqus_comments: "yes" # yes - show disqus comments, no - hide disqus comments
+disqus_comments: "no" # yes - show disqus comments, no - hide disqus comments
 disqus_shortname: "glitche-jekyll-theme" # read more here https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # formsubmit.io
