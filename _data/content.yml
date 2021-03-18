@@ -9,110 +9,204 @@ about:
   image: "assets/img/man1.jpg"
   text: "
         <p>
-          <strong>Hello! I’m Thu Huynh, and I go by Ezra</strong><br> I'm a UX/UI designer driven by usability, accessibility and aesthetics. To me, design is like cooking, something can taste really good but doesn't look good. And as a chef/designer, I'm striving to achieve both.
+          <strong>Hello! Iâ€™m John Doe.</strong><br> Web designer from Ukraine, Kiev. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
         </p>
         "
   list:
     - label: "Name"
-      value: "Ezra"
+      value: "24"
 
-    - label: "The only game I play these days"
-      value: "League of Legends"
+    - label: "Age"
+      value: "22 Years"
 
-    - label: "Hobby"
-      value: "Cooking"
+    - label: "Job"
+      value: "Web Developer"
 
-    - label: "Favorite weather"
-      value: "Rain Rain Rain"
+    - label: "Citizenship"
+      value: "Ukraine"
 
-    - label: "Favorite fruit"
-      value: "Lychee"
+    - label: "Residence"
+      value: "Kiev"
 
     - label: "E-mail"
-      value: "thuah@umich.edu"
+      value: "johndoe@domain.com"
 
   download:
-    text: "Download my resume"
-    link: "https://drive.google.com/file/d/1N5p3jYz3KAUPOUx0sg7-2xLUbRMrO90a/view?usp=sharing"
+    text: "Download CV"
+    link: "https://drive.google.com/"
 
 ### Resume [ resume ]
 resume:
   experience:
     title: "Experience"
     items:
-      - year: "Feb 2021 - May 2021"
-        name: "UX/UI Intern - The Runway"
-        text: "Redesigned and upgraded The Runway’s website (therunwayapp.com) with the goal to enable models to showcase and sell their own modeling assets on one platform."
+      - year: "2013 - Present"
+        name: "Art Director - Facebook Inc"
+        text: "Collaborate with creative and development teams on the execution of ideas."
 
-      - year: "April 2019 - June 2020"
-        name: "Undergraduate Research Assistant - Google Inc"
-        text: "Assisted in literature review and analyzing 31 fertility mobile apps on Google Play Store and make apps evaluation to identify rooms for improvement"
+      - year: "2011 - 2012"
+        name: "Front-end Developer - Google Inc"
+        text: "Monitored technical aspects of the front-end delivery for several projects."
+
+      - year: "2009 - 2010"
+        name: "Senior Developer - Abc Inc"
+        text: "Optimize website performance using latest technology."
+        
   education:
     title: "Education"
     items:
-      - year: "2020 - 2022"
-        name: "University of Michigan, Ann Arbor"
-        text: "Master's Degree in Information, UX Research and Design"
+      - year: "2006 - 2008"
+        name: "Art University of New York"
+        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
 
-      - year: "2017 - 2020"
-        name: "University of California, Irvine"
-        text: "Bachelor's Degree in Software Engineering"
-        
+      - year: "2005 - 2006"
+        name: "Programming Course"
+        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
+
+      - year: "2004 - 2005"
+        name: "Web Design Course"
+        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+
 ### Skills [ skills ]
+skills:
+  columns:
+    - type: "default" #skills progress type - default, dotted, circles, list
+      title: "Design Skills"
+      items:
+        - label: "Web Design"
+          value: "70" #0-100 progress in %
+
+        - label: "Illustrations"
+          value: "90" #0-100 progress in %
+
+        - label: "Photoshop"
+          value: "75" #0-100 progress in %
+
+        - label: "Graphic Design"
+          value: "80" #0-100 progress in %
+
+    - type: "dotted" #skills progress type - default, dotted, circles, list
+      title: "Languages Skills"
+      items:
+        - label: "English"
+          value: "90" #0-100 progress in %
+
+        - label: "German"
+          value: "70" #0-100 progress in %
+
+        - label: "Italian"
+          value: "55" #0-100 progress in %
+
+        - label: "French"
+          value: "85" #0-100 progress in %
+
+    - type: "circles" #skills progress type - default, dotted, circles, list
+      title: "Coding Skills"
+      items:
+        - label: "WordPress"
+          value: "95" #0-100 progress in %
+
+        - label: "PHP / MYSQL"
+          value: "75" #0-100 progress in %
+
+        - label: "Angular / JavaScript"
+          value: "85" #0-100 progress in %
+
+        - label: "HTML / CSS"
+          value: "90" #0-100 progress in %
+
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
       items:
-        - label: "Prototyping"
+        - label: "Website hosting"
           value: "" #0-100 progress in %
 
-        - label: "User research"
+        - label: "iOS and android apps"
           value: "" #0-100 progress in %
 
-        - label: "Usability Testing"
+        - label: "Create logo design"
           value: "" #0-100 progress in %
 
-        - label: "Affinity Diagramming"
+        - label: "Design for print"
           value: "" #0-100 progress in %
 
-        - label: "Wireframing"
+        - label: "Modern and mobile-ready"
           value: "" #0-100 progress in %
 
-        - label: "Graphic Design"
+        - label: "Advertising services include"
           value: "" #0-100 progress in %
 
-        - label: "Interviewing"
+        - label: "Graphics and animations"
           value: "" #0-100 progress in %
 
-        - label: "HTML/CSS/JavaScript"
+        - label: "Search engine marketing"
           value: "" #0-100 progress in %
-          
-        - label: "Figma"
-          value: "" #0-100 progress in %
-                  
-        - label: "Photoshop | Illustrator"
-          value: "" #0-100 progress in %
-          
-        - label: "Miro | Kanban | Slack | Trello"
-          value: "" #0-100 progress in %
-          
-        - label: "C++ | Java | Python"
-          value: "" #0-100 progress in %
+
+### Services [ services ]
+services:
+  title: "My Services"
+  items:
+    - icon: "social-html5"
+      name: "Front-end"
+      text: "Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript."
+
+    - icon: "ipad"
+      name: "Mobile Application"
+      text: "A mobile application, most commonly referred to as an app, is a type of application software designed to run on a mobile."
+
+    - icon: "ios-search-strong"
+      name: "Investigation"
+      text: "Investigation, examination, inquiry, research express the idea of an active effort to find out something."
+
+    - icon: "code"
+      name: "Programming"
+      text: "Computer programming is the process of designing and building an executable computer program to accomplish a specific."
+
+    - icon: "help-buoy"
+      name: "Awesome Supports"
+      text: "Awesome Support is the most versatile and feature-rich. Get started for free and add premium features as your business grows."
+
+    - icon: "social-chrome"
+      name: "Web Development"
+      text: "Web development is the work involved in developing a Web site for the Internet or an intranet and social network services."
+
+### Clients [ clients ]
+clients:
+  title: "Clients"
+  items:
+    - url: "https://www.google.com"
+      image: "assets/img/clients/client_1.png"
+
+    - url: "https://www.google.com"
+      image: "assets/img/clients/client_2.png"
+
+    - url: "https://www.google.com"
+      image: "assets/img/clients/client_3.png"
+
+    - url: "https://www.google.com"
+      image: "assets/img/clients/client_1.png"
+
+    - url: "https://www.google.com"
+      image: "assets/img/clients/client_2.png"
+
+    - url: "https://www.google.com"
+      image: "assets/img/clients/client_3.png"
 
 ### Contact Info [ contacts-info ]
 contacts_info:
-  title: "Find me here :D"
+  title: "Get in Touch"
   list:
     - label: "Phone"
       icon: "android-phone-portrait"
-      value: "+ (208) 240 4678"
+      value: "+ (231) 456 67 89"
 
     - label: "Email"
       icon:  "email"
-      value: "<a href='mailto:thuah@umich.edu'>thuah@umich.edu</a>"
+      value: "<a href='mailto:john-doe@gmail.com'>john-doe@gmail.com</a>"
 
     - label: "Address"
       icon: "ios-location"
-      value: "Up to my mood"
+      value: "2621 W Pico Blvd, Los Angeles"
 
 ### Contact Form [ contacts-form ]
 contacts_form:
