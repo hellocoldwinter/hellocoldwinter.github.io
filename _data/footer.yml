@@ -9,7 +9,7 @@ main:
 #      icon: "social-dribbble"
 #      url: "https://dribbble.com/"
     - title: "LinkedIn"
-      icon: "ion-social-linkedin"
+      icon: "social-linkedin"
       url: "https://www.linkedin.com/in/ezraozaki/"
     - title: "GitHub"
       icon: "social-github"
