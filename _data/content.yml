@@ -16,8 +16,8 @@ about:
     - label: "Name"
       value: "Ezra"
 
-    - label: "Age"
-      value: "22 Years"
+    - label: "Favorite fruit"
+      value: "Lychee"
 
     - label: "The only game I play these days"
       value: "League of Legends"
@@ -65,95 +65,45 @@ skills:
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
       items:
-        - label: "Website hosting"
+        - label: "Prototyping"
           value: "" #0-100 progress in %
 
-        - label: "iOS and android apps"
+        - label: "Usability Testing"
           value: "" #0-100 progress in %
 
-        - label: "Create logo design"
+        - label: "Wireframing"
           value: "" #0-100 progress in %
 
-        - label: "Design for print"
+        - label: "Graphic Design"
           value: "" #0-100 progress in %
 
-        - label: "Modern and mobile-ready"
+        - label: "Interviewing"
           value: "" #0-100 progress in %
 
-        - label: "Advertising services include"
+        - label: "HTML/CSS/JavaScript"
           value: "" #0-100 progress in %
 
-        - label: "Graphics and animations"
+        - label: "Miro | Kanban | Slack | Trello"
           value: "" #0-100 progress in %
 
         - label: "Search engine marketing"
           value: "" #0-100 progress in %
 
-### Services [ services ]
-services:
-  title: "My Services"
-  items:
-    - icon: "social-html5"
-      name: "Front-end"
-      text: "Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript."
-
-    - icon: "ipad"
-      name: "Mobile Application"
-      text: "A mobile application, most commonly referred to as an app, is a type of application software designed to run on a mobile."
-
-    - icon: "ios-search-strong"
-      name: "Investigation"
-      text: "Investigation, examination, inquiry, research express the idea of an active effort to find out something."
-
-    - icon: "code"
-      name: "Programming"
-      text: "Computer programming is the process of designing and building an executable computer program to accomplish a specific."
-
-    - icon: "help-buoy"
-      name: "Awesome Supports"
-      text: "Awesome Support is the most versatile and feature-rich. Get started for free and add premium features as your business grows."
-
-    - icon: "social-chrome"
-      name: "Web Development"
-      text: "Web development is the work involved in developing a Web site for the Internet or an intranet and social network services."
-
-### Clients [ clients ]
-clients:
-  title: "Clients"
-  items:
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_1.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_2.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_3.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_1.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_2.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_3.png"
-
 ### Contact Info [ contacts-info ]
 contacts_info:
-  title: "Get in Touch"
+  title: "Find me here :D"
   list:
     - label: "Phone"
       icon: "android-phone-portrait"
-      value: "+ (231) 456 67 89"
+      value: "+ (208) 240 4678"
 
     - label: "Email"
       icon:  "email"
-      value: "<a href='mailto:john-doe@gmail.com'>john-doe@gmail.com</a>"
+      value: "<a href='mailto:thuah@umich.edu'>thuah@umich.edu</a>"
 
     - label: "Address"
       icon: "ios-location"
-      value: "2621 W Pico Blvd, Los Angeles"
+      value: "It depends"
 
 ### Contact Form [ contacts-form ]
 contacts_form:
