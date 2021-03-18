@@ -6,30 +6,30 @@
 ### About [ about ]
 about:
   title: "About Me"
-  image: "assets/img/man1.jpg"
+  image: "assets/img/butler.png"
   text: "
         <p>
-          <strong>Hello! Iâ€™m John Doe.</strong><br> Web designer from Ukraine, Kiev. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
+          <strong>Hello! I’m Thu Huynh, and I go by Ezra</strong><br> I'm a UX/UI designer driven by usability, accessibility and aesthetics. To me, design is like cooking, something can taste really good but doesn't look good. And as a chef/designer, I'm striving to achieve both.
         </p>
         "
   list:
     - label: "Name"
-      value: "24"
+      value: "Ezra"
 
     - label: "Age"
       value: "22 Years"
 
-    - label: "Job"
-      value: "Web Developer"
+    - label: "The only game I play these days"
+      value: "League of Legends"
 
-    - label: "Citizenship"
-      value: "Ukraine"
+    - label: "Hobby"
+      value: "Cooking"
 
-    - label: "Residence"
-      value: "Kiev"
+    - label: "Favorite weather"
+      value: "Rain"
 
     - label: "E-mail"
-      value: "johndoe@domain.com"
+      value: "thuah@umich.edu"
 
   download:
     text: "Download CV"
@@ -40,81 +40,28 @@ resume:
   experience:
     title: "Experience"
     items:
-      - year: "2013 - Present"
-        name: "Art Director - Facebook Inc"
-        text: "Collaborate with creative and development teams on the execution of ideas."
+      - year: "Feb 2021 - May 2021"
+        name: "UX/UI Intern - The Runway"
+        text: "Redesigned and upgraded The Runway’s website (therunwayapp.com) with the goal to enable models to showcase and sell their own modeling assets on one platform."
 
-      - year: "2011 - 2012"
-        name: "Front-end Developer - Google Inc"
-        text: "Monitored technical aspects of the front-end delivery for several projects."
-
-      - year: "2009 - 2010"
-        name: "Senior Developer - Abc Inc"
-        text: "Optimize website performance using latest technology."
+      - year: "April 2019 - June 2020"
+        name: "Undergraduate Research Assistant - HAI Lab"
+        text: "Assisted in literature review and analyzing 31 fertility mobile apps on Google Play Store and make apps evaluation to identify rooms for improvement."
         
   education:
     title: "Education"
     items:
-      - year: "2006 - 2008"
-        name: "Art University of New York"
-        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
+      - year: "2020 - 2022"
+        name: "University of Michigan, Ann Arbor"
+        text: "Master's Degree in Information, UX Research and Design"
 
-      - year: "2005 - 2006"
-        name: "Programming Course"
-        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
-
-      - year: "2004 - 2005"
-        name: "Web Design Course"
-        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+      - year: "2017 - 2020"
+        name: "University of California, Irvine"
+        text: "Bachelor's Degree in Software Engineering"
 
 ### Skills [ skills ]
 skills:
   columns:
-    - type: "default" #skills progress type - default, dotted, circles, list
-      title: "Design Skills"
-      items:
-        - label: "Web Design"
-          value: "70" #0-100 progress in %
-
-        - label: "Illustrations"
-          value: "90" #0-100 progress in %
-
-        - label: "Photoshop"
-          value: "75" #0-100 progress in %
-
-        - label: "Graphic Design"
-          value: "80" #0-100 progress in %
-
-    - type: "dotted" #skills progress type - default, dotted, circles, list
-      title: "Languages Skills"
-      items:
-        - label: "English"
-          value: "90" #0-100 progress in %
-
-        - label: "German"
-          value: "70" #0-100 progress in %
-
-        - label: "Italian"
-          value: "55" #0-100 progress in %
-
-        - label: "French"
-          value: "85" #0-100 progress in %
-
-    - type: "circles" #skills progress type - default, dotted, circles, list
-      title: "Coding Skills"
-      items:
-        - label: "WordPress"
-          value: "95" #0-100 progress in %
-
-        - label: "PHP / MYSQL"
-          value: "75" #0-100 progress in %
-
-        - label: "Angular / JavaScript"
-          value: "85" #0-100 progress in %
-
-        - label: "HTML / CSS"
-          value: "90" #0-100 progress in %
-
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
       items:
