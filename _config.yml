@@ -24,7 +24,7 @@ email: "thuah@umich.edu"
 description: ""
 author: "Ezra"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "hellocoldwinter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hellocoldwinter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks
