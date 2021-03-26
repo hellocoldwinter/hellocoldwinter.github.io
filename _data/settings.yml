@@ -18,15 +18,15 @@ portfolio:
       active: 1
 
     - name: "UI/UX Design"
-      slug: "f-content"
+      slug: "f-design"
       active: 0
 
     - name: "Research"
-      slug: "f-content"
+      slug: "f-research"
       active: 0
 
     - name: "Development"
-      slug: "f-content"
+      slug: "f-dev"
       active: 0
 
 
