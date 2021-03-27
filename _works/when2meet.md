@@ -66,8 +66,8 @@ Our Study Objectives focused on being able to understand the context in which pe
 
 **<u>Personas</u>**<br>
 <img src="/assets/img/when2meet/Carson.jpg" alt="When2meet1" title="Carson" height="400"/>
+<br>
 <img src="/assets/img/when2meet/Eddie.jpg" alt="When2meet2" title="Eddie" height="400"/>
-<img src="/assets/img/when2meet/Andron.jpg" alt="When2meet3" title="Andron" height="400"/>
 <br><br>
 
 **III: USABILITY TESTING** <br>
