@@ -3,7 +3,7 @@ title: Paciolan - SDM WebApp Project
 category: Content
 category_slug: f-design f-dev
 type: content
-image: assets/img/Paciolan/thumbnail.jpg
+image: assets/img/Paciolan/pac.jpg
 
 ---
  
