@@ -16,20 +16,20 @@ about:
     - label: "Name"
       value: "Ezra"
 
-    - label: "Favorite person"
-      value: "Hatake Kakashi"
-
     - label: "Motto"
       value: "Live to eat"
 
-    - label: "Hobbies"
-      value: "A lot"
+    - label: "Favorite person"
+      value: "Hatake Kakashi"
 
     - label: "Favorite weather"
       value: "Rain"
 
-    - label: "E-mail"
-      value: "thuah@umich.edu"
+    - label: "Hobbies"
+      value: "A lot"
+
+    - label: "Other names"
+      value: "Thu, Lux, Ki"
 
   download:
     text: "View my resume"
