@@ -16,14 +16,14 @@ about:
     - label: "Name"
       value: "Ezra"
 
-    - label: "Favorite fruit"
-      value: "Lychee"
+    - label: "Favorite person"
+      value: "Hatake Kakashi"
 
     - label: "Motto"
       value: "Live to eat"
 
-    - label: "Hobby"
-      value: "Cooking"
+    - label: "Hobbies"
+      value: "A lot"
 
     - label: "Favorite weather"
       value: "Rain"
@@ -32,7 +32,7 @@ about:
       value: "thuah@umich.edu"
 
   download:
-    text: "Download my resume"
+    text: "View my resume"
     link: "https://drive.google.com/file/d/1N5p3jYz3KAUPOUx0sg7-2xLUbRMrO90a/view?usp=sharing"
 
 ### Resume [ resume ]
@@ -77,7 +77,7 @@ skills:
         - label: "Inteviewing"
           value: "" #0-100 progress in %
 
-        - label: "Interviewing"
+        - label: "Photoshop/Illustrator"
           value: "" #0-100 progress in %
 
         - label: "HTML/CSS/JavaScript"
