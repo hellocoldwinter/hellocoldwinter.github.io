@@ -102,7 +102,7 @@ The 3 key functions that the search result page has to accomplish are to lead th
 Notable features: 
 - Filter events based on NFC/SMS/Barcode Sharing status
 - Sort events based on date/name <br><br>
-<img src="/assets/img/Paciolan/filter.png"/> <br><br>
+<img src="/assets/img/Paciolan/filter.png" height="700"/> <br><br>
 
 **Bulk Update**<br><br>
 The page displays a list of events taken from the search result page for users to choose from to be bulk updated. It shows different bulk update options and to enable or disable SMS, NFC. <br>
@@ -111,5 +111,5 @@ Notable features:
 - Provide errors prevention mechanisms
 - Calling API endpoint to save the changes to the database
 - Sort events based on date/name <br><br>
-<img src="/assets/img/Paciolan/bulk.png"/> <br><br>
+<img src="/assets/img/Paciolan/bulk.png" height="700"/> <br><br>
 
