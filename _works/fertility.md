@@ -1,7 +1,7 @@
 ---
 title: Cardboard Box
 category: Content
-category_slug: f-content
+category_slug: f-research f-design
 type: content
 image: assets/img/works/work3.jpg
 
