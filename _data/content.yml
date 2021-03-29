@@ -19,17 +19,17 @@ about:
     - label: "Motto"
       value: "Live to eat"
 
-    - label: "Favorite person"
+    - label: "Favorite character"
       value: "Hatake Kakashi"
 
-    - label: "Favorite weather"
-      value: "Rain"
+    - label: "Bedside book"
+      value: "Witch Child"
 
     - label: "Hobbies"
       value: "A lot"
 
-    - label: "Other names"
-      value: "Thu, Lux, Ki"
+    - label: "Favorite Pokemon"
+      value: "Dragonite"
 
   download:
     text: "View my resume"
