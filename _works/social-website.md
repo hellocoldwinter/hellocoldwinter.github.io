@@ -1,7 +1,7 @@
 ---
 title: Paciolan - SDM WebApp Project
 category: Content
-category_slug: f-design, f-dev
+category_slug: f-design f-dev
 type: content
 image: assets/img/works/work9.jpg
 button_url: https://bslthemes.com/
