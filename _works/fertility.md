@@ -1,9 +1,9 @@
 ---
-title: Cardboard Box
+title: Exploring the Design of Fertility Tracking Tools
 category: Content
 category_slug: f-research f-design
 type: content
-image: assets/img/works/work3.jpg
+image: assets/img/fertility/fertility cir.jpg
 
 ---
 
