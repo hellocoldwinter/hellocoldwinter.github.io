@@ -95,7 +95,7 @@ contacts_info:
   list:
     - label: "Phone"
       icon: "android-phone-portrait"
-      value: "+ (208) 240 4678"
+      value: "+ (208) 340 4678"
 
     - label: "Email"
       icon:  "email"
