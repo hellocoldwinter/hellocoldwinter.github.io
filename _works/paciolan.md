@@ -1,6 +1,6 @@
 ---
 title: Paciolan - SDM WebApp Project
-category: Content
+category: Development
 category_slug: f-design f-dev
 type: content
 image: assets/img/Paciolan/pac.jpg
