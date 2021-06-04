@@ -34,6 +34,16 @@ The project is a web-based application that involves UX design and implementatio
 - The majority of our users will be accessing the web-app via devices with a screen size over 900 pixels.
 - Control flow cross platforms will have the same logical flow.<br>
 
+**PERSONA & SCENARIO**<br>
+<img src="/assets/img/Paciolan/Picture1.png" height="600"/> <br>
+Figure 1.1. Persona 1 - Robert.
+<br>
+
+Scenario: 
+Robert, as the director of ticket operations,  wants to change the settings of his events so that they run smoothly.
+He wants to enable NFC for all of his events in the spring 2020 season, so he goes to the search page and searches “spring 2020”. His results are displayed and he selects all after hitting the update button. He then checks the NFC checkboxes so that they are enabled. He confirms his changes and sees the summary page. 
+
+
 **FUNCTIONAL REQUIREMENTS**<br> <br>
 
 <img src="/assets/img/Paciolan/useCase.png" height="600"/> <br>
