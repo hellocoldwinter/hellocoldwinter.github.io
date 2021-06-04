@@ -35,7 +35,7 @@ The project is a web-based application that involves UX design and implementatio
 - Control flow cross platforms will have the same logical flow.<br>
 
 **PERSONA & SCENARIO**<br>
-<img src="/assets/img/Paciolan/Picture1.png" height="600"/> <br>
+<img src="/assets/img/Paciolan/Picture1.png" height="500"/> <br>
 Figure 1.1. Persona 1 - Robert.
 <br>
 
