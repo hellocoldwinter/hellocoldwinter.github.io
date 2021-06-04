@@ -16,7 +16,7 @@ The project is a web-based application that involves UX design and implementatio
 
 |    My Roles    | Duration |    Tool     |
 | :------------: | :------: | :---------: |
-| UX/UI Designer - Front-end Developer | 6 months  |    Figma - React.js    |
+| Front-end Developer | 6 months  |    React.js    |
 
 
 <br>
