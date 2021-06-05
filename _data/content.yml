@@ -39,11 +39,7 @@ about:
 resume:
   experience:
     title: "Experience"
-    items:
-      - year: "May 2021 - Present"
-        name: "Design Intern - The Puzzlers"
-        text: "Illustrated user flows and designed wireframes/mock-ups for The Puzzlers' new services, aiming to bring small businesses together."
-      
+    items:    
       - year: "Feb 2021 - May 2021"
         name: "UX/UI Intern - The Runway"
         text: "Design The Runway’s website (therunwayapp.com) with the goal to enable models to showcase and sell their own modeling assets on one platform."
