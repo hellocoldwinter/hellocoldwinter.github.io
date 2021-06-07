@@ -1,7 +1,7 @@
 ---
 title: Exploring the Design of Fertility Tracking Tools
 category: Research
-category_slug: f-research f-design
+category_slug: f-research
 type: content
 image: assets/img/fertility/fertility cir.jpg
 
