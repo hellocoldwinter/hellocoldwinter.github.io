@@ -16,3 +16,18 @@ The app will offer users a way to customize their list of options -whatever it i
 <br><br>
 
 **FUNCTIONALITY** <br>
+1. Help people make their choices among various options in different categories (restaurants, movies, games, traveling destinations…) using different methods - Swiping, Dice, Randomize
+2. Share list between users using links
+3. Provide recommendations/list of options for users if they don’t have any idea in mind (restaurants, movies, games, traveling destinations…)
+<br><br>
+
+**TARGET AUDIENCE** <br>
+Anyone who wants to spend time with their friends/family and has a hard time deciding what to do among a list of options and/or anyone who needs suggestions regarding what to do and open to exploring new options.
+<br><br>
+
+**DESIGN CHOICE** <br>
+**Approach 1: Recommendations are randomly generated**
+- Customers are presented with different categories (movies, games, restaurants, events…)
+- Customers choose the category based on what they want to do with their friends/family.
+- The app will provide customers some basic filters to narrow down their list 
+
