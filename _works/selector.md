@@ -84,5 +84,5 @@ I would ultimately pick the first approach if I can only pick one because it mee
 <img src="/assets/img/Selector/Mockups.png" alt="multiple mockup" title="hifi" width="1000"/> <br><br>
 
 **PROTOTYPE LINK** <br>
-https://www.figma.com/proto/tPlTYACj90q5HZj58Djk1I/Data-dump?page-id=0%3A1&node-id=266%3A59&viewport=466%2C-299%2C0.125&scaling=scale-down
+[Click to view](https://www.figma.com/proto/tPlTYACj90q5HZj58Djk1I/Data-dump?page-id=0%3A1&node-id=266%3A59&viewport=466%2C-299%2C0.125&scaling=scale-down)
 
