@@ -71,7 +71,18 @@ I would ultimately pick the first approach if I can only pick one because it mee
 <img src="/assets/img/Selector/Persona 3.jpg" alt="persona gamer" title="Syed" height="400"/>
 <br><br>
 
-**MOCKUPS** <br>
-<img src="/assets/img/Selector/Mockups.png" alt="multiple mockup" title="hifi" width="1000"/>
+**SKETCHES** <br>
+<img src="/assets/img/Selector/approach1.jpg" alt="sketch1" title="firstapproach" width="800"/>
+<br>
+<img src="/assets/img/Selector/approach2.jpg" alt="sketch2" title="secondapproach" width="800"/>
+<br>
+<img src="/assets/img/Selector/approach3.jpg" alt="sketch3" title="thirdapproach" width="800"/>
+<br><br>
 
+
+**MOCKUPS** <br>
+<img src="/assets/img/Selector/Mockups.png" alt="multiple mockup" title="hifi" width="1000"/> <br><br>
+
+**PROTOTYPE LINK** <br>
+https://www.figma.com/proto/tPlTYACj90q5HZj58Djk1I/Data-dump?page-id=0%3A1&node-id=266%3A59&viewport=466%2C-299%2C0.125&scaling=scale-down
 
