@@ -16,21 +16,25 @@ The app will offer users a way to customize their list of options -whatever it i
 <br><br>
 
 **FUNCTIONALITY** <br>
-1. Help people make their choices among various options in different categories (restaurants, movies, games, traveling destinations…) using different methods - Swiping, Dice, Randomize
-2. Share list between users using links
-3. Provide recommendations/list of options for users if they don’t have any idea in mind (restaurants, movies, games, traveling destinations…)
+* Help people make their choices among various options in different categories (restaurants, movies, games, traveling destinations…) using different methods - Swiping, Dice, Randomize
+* Share list between users using links
+* Provide recommendations/list of options for users if they don’t have any idea in mind (restaurants, movies, games, traveling destinations…)
 <br><br>
 
 **TARGET AUDIENCE** <br>
 Anyone who wants to spend time with their friends/family and has a hard time deciding what to do among a list of options and/or anyone who needs suggestions regarding what to do and open to exploring new options.
 <br><br>
 
-**DESIGN CHOICE** <br>
+**DESIGN CHOICE** <br><br>
 <ins>Approach 1: Recommendations are randomly generated</ins>
-- Customers are presented with different categories (movies, games, restaurants, events…)
-- Customers choose the category based on what they want to do with their friends/family.
-- The app will provide customers some basic filters to narrow down their list.
-- The app then proceeds to send a request to external APIs to get data based on the user’s filters then randomize and put them into a list.
+> Customers are presented with different categories (movies, games, restaurants, events…)
+Customers choose the category based on what they want to do with their friends/family.
+> The app will provide customers some basic filters to narrow down their list.
+> The app then proceeds to send a request to external APIs to get data based on the user’s filters then randomize and put them into a list.
 <ins>Rationale for approach 1:</ins>
+- The list is not completely random, rather, it takes the user’s preference/restrictions into consideration. This approach generally offers a great customization/personalization capability.
+- This approach saves customers’ time by not forcing them to actually come up with ideas.
+- This approach also opens a possibility that customers would have some new and interesting options that they may not think about.
+
 
 
