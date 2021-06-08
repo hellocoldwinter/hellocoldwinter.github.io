@@ -1,5 +1,5 @@
 ---
-title: Selector - Choice Making Assistance
+title: Selector - Choice Making Assistant
 category: UI/UX Design
 category_slug: f-design
 type: content
