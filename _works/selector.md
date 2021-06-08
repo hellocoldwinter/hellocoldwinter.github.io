@@ -36,6 +36,7 @@ Customers choose the category based on what they want to do with their friends/f
 > The list is not completely random, rather, it takes the user’s preference/restrictions into consideration. This approach generally offers a great customization/personalization capability. <br>
 > This approach saves customers’ time by not forcing them to actually come up with ideas. <br>
 > This approach also opens a possibility that customers would have some new and interesting options that they may not think about. <br><br>
+
 <ins>Approach 2: Recommendations are essentially other users’ lists</ins>
 > There would be a ‘board’ tab in the app where recent lists of options created by other users are displayed. <br>
 > Users can either search these available lists by typing keywords or browse them by category (depending on how the creator categorizes them) <br>
@@ -45,6 +46,7 @@ Customers choose the category based on what they want to do with their friends/f
 > The previously created list can be recycled in this approach. <br>
 > There is more of a sense of community here as the user knows that their list is set up by another real user. <br>
 > Real users can come up with many interesting ideas that otherwise would not be available using randomization algorithms. <br><br>
+
 <ins>Approach 3: Recommendations are collected from other participants in the party</ins>
 > There will be a link that the user can share with other participants in their party either by email, SMS or social media message. <br>
 > Each of these participants can add items to the list. <br>
