@@ -61,7 +61,17 @@ Customers choose the category based on what they want to do with their friends/f
 I would ultimately pick the first approach if I can only pick one because it meets the criteria regarding users’ preferences/restrictions. It can also satisfy the “explorer” type of users who like new ideas and trying new things. By leaving the job of coming up with list items to the randomization algorithms, it will save the user a lot of time, especially if compared to approach 2 and 3. In the second approach, even though the final list can be quite interesting, there are more chances that there would be items that are completely out of radar to the user (for diners, it may be restaurants that are too far, for gamers it may be first-person shooter games that gamers with motion sickness cannot play…) Also for approach 2, it would need a database to store all the users’ lists and the database will require regular maintenance. For approach 3, its weakness would be the amount of time it takes to get input from other participants. For a huge group of people, it will be very time-consuming.<br><br>
 
 **QOC DIAGRAM** <br>
-<img src="/assets/img/Selector/QOC.jpg" alt="qocdiagram" title="questionchoice"/><br><br>
+<img src="/assets/img/Selector/QOC.jpg" alt="qocdiagram" title="questionchoice" height="400"/><br><br>
 
+**PERSONA** <br>
+<img src="/assets/img/Selector/Persona 1.jpg" alt="persona student" title="Tyler" height="400"/>
+<br>
+<img src="/assets/img/Selector/Persona 2.jpg" alt="persona mother" title="Sarah" height="400"/>
+<br>
+<img src="/assets/img/Selector/Persona 3.jpg" alt="persona gamer" title="Syed" height="400"/>
+<br><br>
+
+**MOCKUPS** <br>
+<img src="/assets/img/Selector/Mockups.png" alt="multiple mockup" title="hifi" width="900"/>
 
 
