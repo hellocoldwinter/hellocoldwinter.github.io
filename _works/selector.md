@@ -72,6 +72,6 @@ I would ultimately pick the first approach if I can only pick one because it mee
 <br><br>
 
 **MOCKUPS** <br>
-<img src="/assets/img/Selector/Mockups.png" alt="multiple mockup" title="hifi" width="900"/>
+<img src="/assets/img/Selector/Mockups.png" alt="multiple mockup" title="hifi" width="1000"/>
 
 
