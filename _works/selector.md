@@ -26,8 +26,11 @@ Anyone who wants to spend time with their friends/family and has a hard time dec
 <br><br>
 
 **DESIGN CHOICE** <br>
-**Approach 1: Recommendations are randomly generated**
+<ins>Approach 1: Recommendations are randomly generated</ins>
 - Customers are presented with different categories (movies, games, restaurants, events…)
 - Customers choose the category based on what they want to do with their friends/family.
-- The app will provide customers some basic filters to narrow down their list 
+- The app will provide customers some basic filters to narrow down their list.
+- The app then proceeds to send a request to external APIs to get data based on the user’s filters then randomize and put them into a list.
+<ins>Rationale for approach 1:</ins>
+
 
