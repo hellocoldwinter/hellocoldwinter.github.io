@@ -40,6 +40,10 @@ resume:
   experience:
     title: "Experience"
     items:    
+      - year: "June 2021 - August 2021"
+        name: "UX/UI Intern - DataHouse Asia"
+        text: ""
+      
       - year: "Feb 2021 - May 2021"
         name: "UX/UI Intern - The Runway"
         text: "Design The Runway’s website (therunwayapp.com) with the goal to enable models to showcase and sell their own modeling assets on one platform."
